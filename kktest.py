@@ -1,6 +1,5 @@
 from selenium import webdriver
 from login_module import Login
-from selenium.common.exceptions import NoSuchElementException
 import unittest, time
 
 class KKweb_test(unittest.TestCase):
